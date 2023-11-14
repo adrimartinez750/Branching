@@ -1,7 +1,7 @@
 /**
  * Muestra en la pantalla "¡Hola mundo!"
  */
-public class HolaMundo{
+public class HelloWorld{
     public static void main (String[] args){
         String rojo = "\033[32m";
         String azul = "\033[34m";
